@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[Opened web Browser]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Google]]>
+    </line>
+    <line>
+      <![CDATA[Entered search string]]>
+    </line>
+    <line>
+      <![CDATA[Selected gmail from the list]]>
+    </line>
+    <line>
+      <![CDATA[Execution completed]]>
+    </line>
+  </reporter-output>
+  <suite name="Sample Demo" duration-ms="11296" started-at="2017-08-31T13:27:49Z" finished-at="2017-08-31T13:28:00Z">
+    <groups>
+    </groups>
+    <test name="Googlesearch" duration-ms="11296" started-at="2017-08-31T13:27:49Z" finished-at="2017-08-31T13:28:00Z">
+      <class name="Googlesearch">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Googlesearch@6737fd8f]" name="initialize" is-config="true" duration-ms="32" started-at="2017-08-31T18:57:49Z" finished-at="2017-08-31T18:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="googledemo()[pri:0, instance:Googlesearch@6737fd8f]" name="googledemo" duration-ms="11281" started-at="2017-08-31T18:57:49Z" finished-at="2017-08-31T18:58:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[Opened web Browser]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to Google]]>
+            </line>
+            <line>
+              <![CDATA[Entered search string]]>
+            </line>
+            <line>
+              <![CDATA[Selected gmail from the list]]>
+            </line>
+            <line>
+              <![CDATA[Execution completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- googledemo -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:Googlesearch@6737fd8f]" name="closeAll" is-config="true" duration-ms="16" started-at="2017-08-31T18:58:00Z" finished-at="2017-08-31T18:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- Googlesearch -->
+    </test> <!-- Googlesearch -->
+  </suite> <!-- Sample Demo -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sample Demo]">
+  <test name="Googlesearch(failed)">
+    <classes>
+      <class name="Googlesearch">
+        <methods>
+          <include name="googledemo"/>
+          <include name="initialize"/>
+          <include name="closeAll"/>
+        </methods>
+      </class> <!-- Googlesearch -->
+    </classes>
+  </test> <!-- Googlesearch(failed) -->
+</suite> <!-- Failed suite [Sample Demo] -->

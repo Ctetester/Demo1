@@ -1,0 +1,6 @@
+31/08/2017 18:57:49 DEBUG Googlesearch (googledemo) Execution Started
+31/08/2017 18:57:51 DEBUG Googlesearch (googledemo) Opened web Browser
+31/08/2017 18:57:52 DEBUG Googlesearch (googledemo) Navigated to Google
+31/08/2017 18:57:58 DEBUG Googlesearch (googledemo) Entered search string
+31/08/2017 18:57:59 DEBUG Googlesearch (googledemo) Selected gmail from the list
+31/08/2017 18:58:00 DEBUG Googlesearch (googledemo) Execution completed
